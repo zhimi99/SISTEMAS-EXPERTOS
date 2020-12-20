@@ -1,0 +1,25 @@
+R1= Si la planta crece muy poco entonces puede tener una deficiencia de nitrógeno.
+
+R2= Si la planta tiene un color amarillo pálido entonces puede tener una deficiencia
+de nitrógeno.
+
+R3= Si las hojas tienen un color pardo rojizo entonces la planta puede tener una
+deficiencia de nitrógeno.
+
+R4= Si la raíz de la planta tiene poco crecimiento entonces puede tener una
+deficiencia de fósforo.
+
+R5= Una planta con tallo fusiforme puede tener una deficiencia de fósforo.
+
+R6= Una planta con color púrpura puede tener una deficiencia de fósforo.
+
+R7= Un retraso en la madurez de una planta puede deberse a una deficiencia de
+fósforo.
+
+R8= Si los bordes de las hojas aparecen chamuscados, la planta puede tener una
+deficiencia de potasio.
+
+R9= Una planta con los tallos debilitados puede tener una deficiencia de potasio.
+
+R10= Una planta con semillas o frutas marchitas puede tener una deficiencia de
+potasio.
